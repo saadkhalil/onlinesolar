@@ -1,0 +1,4 @@
+[11-Oct-2018 05:46:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/solar/public_html/public/index.php on line 52
+[11-Oct-2018 05:46:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/solar/public_html/public/index.php on line 52
+[11-Oct-2018 05:46:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/solar/public_html/public/index.php on line 52
+[11-Oct-2018 05:46:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/solar/public_html/public/index.php on line 52
